@@ -61,3 +61,8 @@ Just run the main.py file from the folder.
 
 ## Screenshots
 ![image](screenshot/1.PNG)
+
+
+# Music player in Tkinter using Python
+
+Visit:- https://www.techroadmap.in/blog/music-player-in-tkinter-using-python/
